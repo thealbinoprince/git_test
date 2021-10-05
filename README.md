@@ -1,0 +1,1 @@
+This is Lexi's "first" git project!
